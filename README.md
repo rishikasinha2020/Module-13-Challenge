@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-=======
-
-
->>>>>>> a62fb77137f72ad5091a9e8e82aea3da794f5fcb
 1. ***Deliverable 1***: Add Tectonic Plate Data
 2. ***Deliverable 2***: Add Major Earthquake Data
 3. ***Deliverable 3***: Add an Additional Map
