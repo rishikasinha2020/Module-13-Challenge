@@ -1,5 +1,5 @@
 
-<<<<<<< HEAD
+
 1. ***Deliverable 1***: Add Tectonic Plate Data
 2. ***Deliverable 2***: Add Major Earthquake Data
 3. ***Deliverable 3***: Add an Additional Map
