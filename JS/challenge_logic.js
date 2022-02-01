@@ -1,4 +1,6 @@
 
+
+
 // Module 13
 
 // Add console.log to check to see if our code is working.
@@ -54,7 +56,11 @@ let baseMaps = {
 
 
 // DELIVERABLE 1 and 2
+
 // Module 13
+
+
+
 // 1. Add a 2nd layer group for the tectonic plate data.
 let allEarthquakes = new L.LayerGroup();
 let tectonicPlates = new L.LayerGroup();
